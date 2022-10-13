@@ -1,0 +1,52 @@
+
+#mc_embed_signup {
+    background: rgb(255, 255, 255);
+    clear: left;
+    font: 20px Helvetica, Arial, sans-serif;
+    width: 70%;
+    height: 40vh;
+    margin-top: 5%;
+    margin-left: 4%;
+    
+}
+
+#mc_embed_signup_scroll{
+    font-size: 20px;
+    
+    
+}
+.clearfoot{
+    
+    margin-top: 3%;
+    margin-left: 10%;
+    margin-bottom: 5px;
+}
+.button{
+    border-radius: 5px;
+    border-color: #f0f0f0;
+    
+}
+
+#mce-EMAIL{
+    width: 909px;
+    height: 20px;
+    border-radius: 10px;
+}
+
+#mce-FNAME{
+    width: 909px;
+    height: 20px;
+    border-radius: 10px;
+}
+
+#mce-LNAME{
+    width: 909px;
+    height: 20px;
+    border-radius: 10px;
+}
+
+#mce-PHONE{
+    width: 909px;
+    height: 20px;
+    border-radius: 10px;
+}
